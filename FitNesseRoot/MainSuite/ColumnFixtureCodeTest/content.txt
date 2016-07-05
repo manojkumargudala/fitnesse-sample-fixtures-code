@@ -1,0 +1,23 @@
+!|com.manoj.com.ColumnFixtureClass            |
+|input value 1|input value 2|addition values ?|
+|4            |6            |10               |
+|5            |5            |10               |
+|5            |5            |11               |
+|5            |5            |11               |
+|5            |0            |5                |
+|5            |5            |11               |
+|5            |5            |11               |
+|5            |5            |11               |
+|5            |5            |11               |
+
+!|com.manoj.com.ColumnFixtureClass           |
+|input value 1|input value 2|additionvalues ?|
+|4            |6            |10              |
+|5            |5            |10              |
+|5            |5            |11              |
+|5            |5            |11              |
+|5            |0            |5               |
+|5            |5            |11              |
+|5            |5            |11              |
+|5            |5            |11              |
+|5            |5            |11              |

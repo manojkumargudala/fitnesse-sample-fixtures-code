@@ -1,0 +1,4 @@
+!|com.manoj.com.RowFixtureClass|
+|input value 1  |input value 2 |
+|2              |4             |
+|3              |9             |

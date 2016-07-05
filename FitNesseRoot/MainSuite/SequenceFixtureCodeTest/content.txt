@@ -1,0 +1,9 @@
+!|com.manoj.com.SequenceFixtureClass|
+
+|input value 1 and 2 are|4  |6 |
+|check                  |Add|10|
+
+
+
+|input value 1 and 2 are|4  |and|6|
+|check                  |Add|10   |

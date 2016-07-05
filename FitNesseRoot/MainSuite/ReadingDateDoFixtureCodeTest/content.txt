@@ -1,0 +1,14 @@
+!contents -R2 -g -p -f -h
+
+|com.manoj.advanced.DateDifferenceFixtureClass|
+
+|Date 1          |04/20/2013|
+|Date 2          |04/25/2013|
+|Difference dates|is   |5   |
+
+
+|this is the other method|Pen,5,10|
+
+|Date 1          |04/20/2013|
+|Date 2          |04/26/2013|
+|Difference dates|is   |5   |

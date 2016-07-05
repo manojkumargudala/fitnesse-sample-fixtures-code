@@ -1,0 +1,15 @@
+|com.manoj.com.MainFixtureClass|
+
+
+|Adding the following list to Set Up Fixture|
+|Item Name|Item Code|Item Value|Stock date  |
+|Pen      |6        |10        |05/21/15,3,3|
+|Pencil   |5        |10        |05/19/15,5,5|
+|Shirt    |5        |110       |05/20/15,6,6|
+
+
+|Verify Set Up Fixture         |
+|Item Name|Item Code|Item Value|
+|Pen      |6        |10        |
+|Pencil   |5        |10        |
+|Shirt    |5        |110       |

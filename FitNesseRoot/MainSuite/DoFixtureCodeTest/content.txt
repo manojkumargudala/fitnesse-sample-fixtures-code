@@ -1,0 +1,23 @@
+!|com.manoj.com.FixtureClass|
+
+|input value 1|4     |
+|input value 2|6     |
+|check        |Add|10|
+
+|input value 1|4     |
+|input value 2|5     |
+|check        |Add|10|
+
+
+
+|input value 1|4     |
+|input value 2|6     |
+|check        |Add|10|
+
+|input value a|4                     |and input value b|6|
+|check        |Add of two numbers    |10                 |
+|check        |Add of two numbers are|10                 |
+
+|input value a|4     |
+|input value b|6     |
+|check        |Add|10|

@@ -1,0 +1,5 @@
+!|com.manoj.com.FixtureClass|
+
+|input value 1|4     |
+|input value 2|6     |
+|check        |Add|10|

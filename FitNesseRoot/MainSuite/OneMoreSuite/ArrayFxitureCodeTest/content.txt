@@ -1,0 +1,14 @@
+|com.manoj.com.MainArrayFixtureClass|
+
+
+|Adding the following list to Set Up Fixture|
+|Item Name     |Item Code    |Item Value    |
+|Pen           |6            |10            |
+|Pencil        |5            |10            |
+|Shirt         |5            |110           |
+
+|Verify using array Fixture    |
+|Item Name|Item Code|Item Value|
+|Pen      |6        |10        |
+|Pencil   |5        |10        |
+|Shirt    |5        |110       |

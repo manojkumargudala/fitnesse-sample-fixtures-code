@@ -1,0 +1,28 @@
+|com.manoj.setfixture.MainSubSetFixtureClass|
+
+
+|Adding the following list to Set Up Fixture|
+|Item Name     |Item Code    |Item Value    |
+|Pen           |6            |10            |
+|Pencil        |5            |10            |
+|Shirt         |5            |110           |
+
+
+|Verify Set Up using array Fixture|
+|Item Name |Item Code |Item Value |
+|Pen       |6         |10         |
+|Pencil    |5         |10         |
+|Shirt     |5         |110        |
+
+
+|Verify Set Up using set Fixture|
+|Item Name |Item Code|Item Value|
+|Pen       |6        |10        |
+|Pencil    |5        |10        |
+
+
+|Verify Set Up using sub set Fixture|
+|Item Name  |Item Code  |Item Value |
+|Pen        |6          |10         |
+|Pencil     |5          |10         |
+

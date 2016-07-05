@@ -1,0 +1,8 @@
+
+
+
+!|com.manoj.com.ColumnFixtureClass            |
+|input value 1|input value 2|addition values ?|
+|4            |6            |10               |
+|5            |5            |10               |
+|5            |5            |11               |

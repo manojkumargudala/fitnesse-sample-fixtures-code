@@ -1,0 +1,20 @@
+!define SERVICE_NAME {declareyourservicename}
+
+
+|com.manoj.com.MainArrayFixtureClass|
+
+
+|Adding the following list to Set Up Fixture|
+|Item Name     |Item Code    |Item Value    |
+|Pen           |6            |15            |
+|Pencil        |5            |10            |
+|Shirt         |5            |110           |
+|trouser       |5            |110           |
+
+
+|Verify using array Fixture    |
+|Item Name|Item Code|Item Value|
+|Pen      |6        |16        |
+|Pencil   |5        |10        |
+|Shirt    |5        |110       |
+|TShirt   |5        |110       |

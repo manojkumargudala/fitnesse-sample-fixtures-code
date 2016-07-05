@@ -1,0 +1,7 @@
+
+|^ColumnFixtureCodeTest  |
+|^DoFixtureCodeTest      |
+|^ArrayFxitureCodeTest   |
+
+
+|^ReadingDateDoFixtureCodeTest|

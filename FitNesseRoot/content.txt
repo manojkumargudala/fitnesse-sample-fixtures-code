@@ -1,0 +1,7 @@
+!define TEST_RUNNER {fitlibrary.suite.FitLibraryServer}
+!path src/main/config
+!path target/classes
+!path bin/*
+!path config
+!path Fit_lib/*
+!path external_lib/*
